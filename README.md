@@ -1,17 +1,3 @@
-Parfait, voici un **README.md propre, professionnel et simple**, adapté à ton projet `web3-message-dapp`.
-
-Il explique :
-
-* ce que fait ta dApp
-* comment elle fonctionne
-* comment la déployer localement
-* comment interagir avec Sepolia
-* avec un style clair et moderne
-
-Tu peux le copier-coller dans ton repo GitHub directement.
-
----
-
 # 📄 **README.md — Web3 Message dApp**
 
 
