@@ -1,5 +1,5 @@
 
-# 🧪 Web3 Message dApp (Sepolia)
+# 🧪 Message dApp (Sepolia)
 
 This is a simple Web3 decentralized application (dApp) that interacts with a
 HelloWorld smart contract deployed on the **Sepolia testnet**.
